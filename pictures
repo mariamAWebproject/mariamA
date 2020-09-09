@@ -5,6 +5,48 @@
         <title>krypton</title> 
 
         <style> 
+ 
+<p>by Thoraiya Vachor</p>
+                 <p> yr.7 science +D.T webpage</P>
+
+                  h1 {
+                  color: rgb(255, 255, 255);
+                  }  
+                  h2 {
+                  color: rgb(255, 255, 255);
+                  }  
+                
+                  h1 {
+                 font-family: broadway;
+                  } 
+    
+                  h2 {
+                 font-family: broadway;
+                   } 
+
+                  p {
+                  color: rgb(16, 16, 18);
+                  font-family: "Helvetica", sans-serif;
+                  }
+
+                  li {
+                  color: rgb(16, 16, 18);
+                  font-family: "Helvetica", sans-serif;
+                  } 
+                 body {
+  animation: colorchange 10s infinite; 
+}
+
+@keyframes colorchange
+{
+  0%   {background: rgb(148, 255, 218) ;}
+15%  {background: rgb(120, 215, 250);}
+  30%  {background: rgb(147, 188, 250);}
+  45%  {background: rgb(87, 115, 255) ;}
+  60%  {background:  rgb(135, 92, 255);}
+  75%{background: rgb(76, 85, 255) ;}
+  100%{background: rgb(75, 194, 250) ;}
+ }
 
       </style> 
 
@@ -54,6 +96,8 @@
         </ul>
         
                 <li><a href= "https://www.iqracollege.sa.edu.au/assets/Uploads/IQRA-Newsletter-2019-Term3-Week5.pdf">Year 7's Credit</a></li> <br>
+                
+                
        
    </body>
    </html>
