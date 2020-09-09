@@ -10,13 +10,12 @@
 
   </head> 
 
-  
+ 
 
-  
-
-  
-
-    <body>  
+    <body>
+    
+    <img src="https://periodictable.com/Samples/036.6/s13.JPG" width="100px" with height="150px">
+       
 
         <h1>krypton</h1> 
 
@@ -54,7 +53,7 @@
           
         </ul>
         
-        
+                <li><a href= "https://www.iqracollege.sa.edu.au/assets/Uploads/IQRA-Newsletter-2019-Term3-Week5.pdf">Year 7's Credit</a></li> <br>
        
    </body>
    </html>
