@@ -8,8 +8,7 @@
           h1 {
 
  
-color: rgb(140, 130, 159)
-;
+color: rgb(140, 130, 159);
 }
  
 body { background-color: rgb(200, 103, 237); 
