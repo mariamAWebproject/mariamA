@@ -5,6 +5,15 @@
         <title>krypton</title> 
 
         <style> 
+          h1 {
+
+ 
+color: rgb(140, 130, 159)
+;
+}
+ 
+body { background-color: rgb(200, 103, 237); 
+     }
  
 <p>by Thoraiya Vachor</p>
                  <p> yr.7 science +D.T webpage</P>
