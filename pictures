@@ -47,6 +47,9 @@
   75%{background: rgb(76, 85, 255) ;}
   100%{background: rgb(75, 194, 250) ;}
  }
+ .ul.style{
+ list-style-type: square;
+ }
 
       </style> 
 
@@ -72,7 +75,7 @@
 
       </P> 
       
-       <ul> 
+       <ul class="ul.style"> 
           <li> <a href="file:///C:/Users/MariamAlJalta/AppData/Local/Temp/Temp1_WebsiteProjectFiles.zip/Aluminium.html">Aluminum</a></li>
           <li> <a href="file:///C:/Users/MariamAlJalta/AppData/Local/Temp/Temp1_WebsiteProjectFiles.zip/Arsenic.html">Arsenic</a></li>
           <li> <a href="file:///C:/Users/MariamAlJalta/AppData/Local/Temp/Temp1_WebsiteProjectFiles.zip/Chlorine.html">Chlorine</a></li>
