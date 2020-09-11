@@ -30,7 +30,7 @@ body { background-color: rgb(200, 103, 237);
                   } 
     
                   h2 {
-                 font-family: broadway;
+                 font-family: broadway; 
                    } 
 
                   p {
